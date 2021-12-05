@@ -7,3 +7,13 @@ Description of data:
 
 The dataset chosen for our group project is focused on movies. More specifically top rated movies. The data was collected from past movies of all types of genres rated on imdb, into a list from highest rated to lowest. The chosen dataset also includes the years the movies were released in, runtime, director, and more. Also the datset was accesed through a kaggel source and is credited in our proposal. 
 
+Analysis of the data: 
+
+
+Exploratory Data Analysis: 
+
+
+Potential Data Science:
+A potential idea when regarding potential data science based on our dataset is to determine what an ideal movie might look like to get the highest rating. This would be achieved by selecting the highest rated or most occuring director along the perfect analyzed runtime within the highest rated genre. This constructed outcome would scientifically have the poper elemnets to possibly become the perfect movie according to IMDB.    
+
+Conclusion:
