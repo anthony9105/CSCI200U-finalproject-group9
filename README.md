@@ -44,6 +44,22 @@ Each Column of the dataset discribed:
 
 Exploratory Data Analysis: 
 
+1. Based on the results from question one we now know that the top three genres rated by IMDB are Western with an average of 8.00 out of 10, Film-Noir with a 7.99 average, and Mystery with an average of 7.97. With all three rating being so close it seems that with acouple more high rated movies from the second or third placed gengres, Western could no longer be the top rated. 
+
+2. hteh
+
+3. Not suprisingly the top rated direcctor that is withing the top reacurring directors is Christopher Nolan, 0.2 higher rated then Stanley Kubrick at second highest rated. However the most the most reacurring director within the data set is Alfred Hitchcock	with a grand total of 14 movies. Since he only directed about fifty films that means that twenty eight percent of his movies made it into the top one thousand of all time.  
+
+4.hteh
+
+5.hettj
+
+6.The 
+
+7.  Therefore the min runtime is 45 minutes while the max runtime is 321 min in the top 1000 rated movies. The min runtime IMDB rating is 8.2 and the max runtime is also 8.2 meaning that we cannot draw a conculsion based on this analysis since both scores are the same. Dissapointingly the resulting meta scores were also a let down. This is becuase the min runtime movie did not have a meta score to display. The max runtime meta score is 89 which is above average, but again no conclusion can be drawn for which movie runtime was higher rated since the two scores can not be compared.
+
+8. Based of the results of question 8 we can analyze that the top rated director of all time according to IMDB is Frank Darabont with an average rating of 8.95. We found it interesting that five out of the ten top directors only had one movie within the top one thousand. This could mean that some of those directors could have made really poor movies with just one great succes. This could then therefore lead us to the conclusion that the true greatest director, not according to IMDB but from our total analytics, is Christopher Nolan or Quentin Tarantino since they have eight movies withing the top one thousand. This is simply becuase this mean they are in the top ten most recurring dircectors and are within the top ten highest rated directors aswell.   
+
 
 Potential Data Science:
 
