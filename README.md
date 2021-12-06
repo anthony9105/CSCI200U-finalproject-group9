@@ -9,9 +9,7 @@ The dataset chosen for our group project is focused on movies. More specifically
 
 Analysis of the data: 
 
-For our data set there are 1000 data records (movies) ranging from 1920 to 2020 with 548 different directors. Some data hand to be cleaned up depending on the question  
-
-There are 14 different game genres:
+For our data set there are 1000 data records (movies) ranging from 1920 to 2020 with 548 different directors. Some data had to be cleaned up depending on the question since some older movies did not include a met score. In total there are 14 different game genres:
 
 ['Drama', 'Crime', 'Action', 'Biography', 'Western', 'Comedy', 'Adventure',
 'Animation', 'Horror', 'Mystery', 'Film-Noir', 'Fantasy', 'Family', 'Thriller']
