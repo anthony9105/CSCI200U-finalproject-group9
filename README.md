@@ -52,11 +52,11 @@ Exploratory Data Analysis:
 
 3. Not suprisingly the top rated direcctor that is withing the top reacurring directors is Christopher Nolan, 0.2 higher rated then Stanley Kubrick at second highest rated. However the most the most reacurring director within the data set is Alfred Hitchcock	with a grand total of 14 movies. Since he only directed about fifty films that means that twenty eight percent of his movies made it into the top one thousand of all time.  
 
-4.hteh
+4. There were three genres that scored an average over 80, these genres being western, animation, and film-noir higher than most of the others. The film-noir genre received the highest average meta score of 91, with animation and western films both roughly around an 81 average. For the other 11 genres, their meta scores averaged between 73 and 77 out of a max of 100. Action had the lowest score amongst the 14 genres, with a score of 73.79.
 
 5.hettj
 
-6.The 
+6. For the majority of the certification types, the average runtime of the films are over 100 minutes long. Only one certificate had an average lower than 100, which was films rated TV-PG. These films ran on average just a little longer than an hour and a half, at around 93 minutes. Films that were unrated or did not receive any certificate had the longest average runtime of 3 hours. Following the unrated category are TV-14, 16, and UA certificates, with average runtimes almost 50 minutes shorter.
 
 7.  Therefore the min runtime is 45 minutes while the max runtime is 321 min in the top 1000 rated movies. The min runtime IMDB rating is 8.2 and the max runtime is also 8.2 meaning that we cannot draw a conculsion based on this analysis since both scores are the same. Dissapointingly the resulting meta scores were also a let down. This is because the min runtime movie did not have a meta score to display. The max runtime meta score is 89 which is above average, but again no conclusion can be drawn for which movie runtime was higher rated since the two scores can not be compared.
 
