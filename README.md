@@ -1,5 +1,5 @@
-# What Makes a Movie Great 
-CSCI2000U-finalproject-group9
+# CSCI2000U-finalproject-group9
+
 
 Introduction:
 
