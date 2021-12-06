@@ -5,7 +5,41 @@ The dataset focused on movies was chosen for many crutial reasons. First being t
 
 Description of data: 
 
-The dataset chosen for our group project is focused on movies. More specifically top rated movies. The data was collected from past movies of all types of genres rated on imdb, into a list from highest rated to lowest. The chosen dataset also includes the years the movies were released in, runtime, director, and more. Also the datset was accesed through a kaggel source and is credited in our proposal. 
+The dataset chosen for our group project is focused on movies. More specifically top rated movies. The data was collected from past movies of all types of genres rated on imdb, into a list from highest rated to lowest. The chosen dataset also includes the years the movies were released in, runtime, director, and more. Also the datset was accesed through a kaggel source and is credited in our proposal. There is also 1000 data records (movies) ranging from 1920 to 2020 with 548 different directors. 
+
+There are 14 different game genres:
+
+['Drama', 'Crime', 'Action', 'Biography', 'Western', 'Comedy', 'Adventure',
+'Animation', 'Horror', 'Mystery', 'Film-Noir', 'Fantasy', 'Family', 'Thriller']
+
+Each Column of the dataset discribed:
+
+• Poster_Link : link to the poster image that is used on IMDB website
+
+• Series_Title : Title of the Movie
+
+• Released_Year : year the movie was released
+
+• Certificate : age rating of the movie
+
+• Runtime : length of the movie in minutes
+
+• Genre : genre of the movie
+
+• IMDB_Rating : movie rating by IMDB
+
+• Overview : brief description of the movie
+
+• Meta_score : critic score of the movie (0-10)
+
+• Director : director of the movie
+
+• Star1, Star2, Star3, Star4 : first four stars of the film
+
+• No_of_Votes : votes
+
+• Gross : money made by the movie
+
 
 Analysis of the data: 
 
@@ -14,6 +48,9 @@ Exploratory Data Analysis:
 
 
 Potential Data Science:
+
 A potential idea when regarding potential data science based on our dataset is to determine what an ideal movie might look like to get the highest rating. This would be achieved by selecting the highest rated or most occuring director along the perfect analyzed runtime within the highest rated genre. This constructed outcome would scientifically have the poper elemnets to possibly become the perfect movie according to IMDB.    
 
 Conclusion:
+
+One major limitation based on this data set when concidering potential data science listed above is that the data set does not state what actor star in each given movie. This can be problematic if trying to see what makes a good movie, since a great actor can sometimes break or make a movie. This leads us to take interest in more data sets around movies that concern and reveal more about the actors in great movies for a possible future direction in analyzing data. 
