@@ -5,7 +5,11 @@ The dataset focused on movies was chosen for many crutial reasons. First being t
 
 Description of data: 
 
-The dataset chosen for our group project is focused on movies. More specifically top rated movies. The data was collected from past movies of all types of genres rated on imdb, into a list from highest rated to lowest. The chosen dataset also includes the years the movies were released in, runtime, director, and more. Also the datset was accesed through a kaggel source and is credited in our proposal. There is also 1000 data records (movies) ranging from 1920 to 2020 with 548 different directors. 
+The dataset chosen for our group project is focused on movies. More specifically top rated movies. The data was collected from past movies of all types of genres rated on imdb, into a list from highest rated to lowest. The chosen dataset also includes the years the movies were released in, runtime, director, and more. Also the datset was accesed through a kaggel source and is credited in our proposal. 
+
+Analysis of the data: 
+
+For our data set there are 1000 data records (movies) ranging from 1920 to 2020 with 548 different directors. Some data hand to be cleaned up depending on the question  
 
 There are 14 different game genres:
 
@@ -39,10 +43,6 @@ Each Column of the dataset discribed:
 • No_of_Votes : votes
 
 • Gross : money made by the movie
-
-
-Analysis of the data: 
-
 
 Exploratory Data Analysis: 
 
